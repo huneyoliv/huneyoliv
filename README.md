@@ -30,12 +30,12 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/DevHuney">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevHuney&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Huney's GitHub Stats" />
+  <a href="https://github.com/huneyoliv">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=huneyoliv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Huney's GitHub Stats" />
   </a>
   <br><br>
-  <a href="https://github.com/DevHuney">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHuney&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Huney's Top Languages" />
+  <a href="https://github.com/huneyoliv">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huneyoliv&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Huney's Top Languages" />
   </a>
 </p>
 
