@@ -31,11 +31,11 @@
 
 <p align="center">
   <a href="https://github.com/huneyoliv">
-    <img align="center" src="https://136.248.77.165:4000/api?username=huneyoliv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Huney's GitHub Stats" />
+    <img align="center" src="http://136.248.77.165:4000/api?username=huneyoliv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Huney's GitHub Stats" />
   </a>
   <br><br>
   <a href="https://github.com/huneyoliv">
-    <img align="center" src="https://136.248.77.165:4000/api/top-langs/?username=huneyoliv&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Huney's Top Languages" />
+    <img align="center" src="http://136.248.77.165:4000/api/top-langs/?username=huneyoliv&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Huney's Top Languages" />
   </a>
 </p>
 
