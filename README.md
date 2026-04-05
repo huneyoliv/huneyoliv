@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ts,js,nestjs,nodejs,vite,py,fastapi,mysql,mongodb,postgres,docker,cloudflare,aws,oracle,gcp" />
+    <img src="https://skillicons.dev/icons?i=linux,ts,js,nestjs,nodejs,vite,py,fastapi,mysql,mongodb,postgres,flutter,swift,docker,cloudflare,aws,oracle,gcp" />
   </a>
 </p>
 
